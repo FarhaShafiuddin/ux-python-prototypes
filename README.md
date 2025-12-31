@@ -43,5 +43,14 @@ ux_python_prototypes/
 
 ---
 
+## Next Steps
+Planned improvements include:
+- Enhanced validation feedback
+- Keyboard-only navigation testing
+- Expanded UX documentation
+- Additional Python UX prototypes
+
+---
+
 ## About Me
 I am building a portfolio that bridges **software development and UX design**, with a focus on Python-based interfaces, prototyping, and human-centered design principles.
