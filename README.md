@@ -1,56 +1,55 @@
-# UX + Python Prototypes
+# Accessible Form Prototype  
+**UX + Python Project**
 
-This repository contains UX-focused prototypes built with Python.  
-My work emphasizes usability, accessibility, and clear interaction design rather than complex algorithms.
+## Overview
+This project is a Python-based accessible form prototype designed with a strong
+focus on usability, clarity, and inclusive design. It demonstrates how UX
+principles can be applied even in desktop applications built with Python.
 
-I am a computer science student focusing on **UI/UX design and Python development**, with an interest in creating interfaces that are inclusive, intuitive, and user-centered.
+## UX Problem
+Many forms are difficult to use because:
+- Labels are unclear or missing
+- Required fields are not obvious
+- Error feedback is confusing or delayed
+- Keyboard navigation is poorly supported
 
----
+These issues disproportionately affect users with accessibility needs.
 
-## Project: Accessible Form Prototype
+## UX Goals
+- Create a clear, readable form layout
+- Provide immediate, understandable feedback
+- Support keyboard-first interaction
+- Reduce cognitive load for users
 
-**Tools:** Python, Tkinter  
-**Focus:** Accessibility, clarity, error prevention, user guidance
+## UX Decisions
+- **Clear labels** placed directly next to inputs
+- **Simple language** instead of technical wording
+- **Logical tab order** to support keyboard navigation
+- **High-contrast layout** and readable font size
+- **Inline validation** to guide users before submission
 
-### Problem
-Forms are a common source of user frustration. Poor labeling, unclear requirements, and unhelpful error messages can make even simple tasks difficult—especially for users with accessibility needs.
+## Implementation
+- Language: Python
+- UI Framework: Tkinter
+- File: `app.py`
 
-### UX Goals
-- Clear instructions and labels  
-- Logical tab order and keyboard accessibility  
-- Readable fonts and simple layout  
-- Immediate, understandable feedback for user input  
+The focus of this project is not visual polish, but usability,
+accessibility, and user guidance.
 
-### Solution
-This prototype demonstrates an accessible form built in Python using Tkinter. The design prioritizes:
-- Simple visual hierarchy  
-- Explicit field labels  
-- User-friendly validation messages  
-- Reduced cognitive load  
+## What This Demonstrates
+- UX thinking applied to software development
+- Ability to translate UX principles into working code
+- Accessibility-aware design decisions
+- Python-based UI prototyping skills
 
-### Why This Matters
-Accessibility and usability are not add-ons—they are core design requirements. This project reflects my approach to UX: thoughtful, inclusive, and grounded in real user needs.
-
----
-
-## Repository Structure
-ux_python_prototypes/
-├── app.py # Main application file
-├── accessible_form/
-│ ├── app.py # Accessible form prototype
-│ └── venv/ # Local virtual environment (not required to run)
-└── README.md
-
----
-
-## Next Steps
-Planned improvements include:
-- Enhanced validation feedback
-- Keyboard-only navigation testing
-- Expanded UX documentation
-- Additional Python UX prototypes
+## Future Improvements
+- Screen reader testing
+- Error message refinement
+- Theme customization for low-vision users
+- Conversion to a web-based accessible form
 
 ---
 
-## About Me
-I am building a portfolio that bridges **software development and UX design**, with a focus on Python-based interfaces, prototyping, and human-centered design principles.
+👩‍💻 **Author**  
+Farha Shafiuddin  
+Computer Science student focusing on UI/UX and Python
