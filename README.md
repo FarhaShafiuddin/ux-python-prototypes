@@ -56,9 +56,6 @@ accessibility, and user guidance.
 ### Validation Feedback
 ![Form validation state](screenshots/form-validation.png)
 
-### Completed Form
-![Filled form state](screenshots/form-validation.png)
-
 **UX Notes:**
 - Clear labels for all fields
 - Logical tab order for keyboard navigation
