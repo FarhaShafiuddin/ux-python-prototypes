@@ -50,11 +50,14 @@ accessibility, and user guidance.
 
 ---
 
-## Accessible Form Prototype
-
-A Python-based accessible form focusing on clarity, usability, and inclusive design principles.
-
+## Form
 ![Accessible Form Screenshot](screenshots/form-default.png)
+
+### Validation Feedback
+![Form validation state](screenshots/form-validation.png)
+
+### Completed Form
+![Filled form state](screenshots/form-validation.png)
 
 **UX Notes:**
 - Clear labels for all fields
