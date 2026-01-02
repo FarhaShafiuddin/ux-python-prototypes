@@ -1,6 +1,10 @@
 #UX prototyping · Accessibility-focused design · Python UI
 
-## This project is a desktop form prototype built using Python and Tkinter to explore how small interface decisions affect usability and accessibility. Rather than focusing on visual polish, the goal was to design a form that reduces user frustration, provides clear feedback, and supports error recovery — especially for users who are easily overwhelmed by poorly designed forms.
+## This project is a desktop form prototype built using Python and Tkinter to
+## explore how small interface decisions affect usability and accessibility.
+## Rather than focusing on visual polish, the goal was to design a form that reduces
+## user frustration, provides clear feedback, and supports error recovery — especially
+## for users who are easily overwhelmed by poorly designed forms.
 
 
 
