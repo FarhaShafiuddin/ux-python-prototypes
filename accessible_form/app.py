@@ -72,12 +72,15 @@ frame.configure(bg=BG_COLOR)
 title_label = tk.Label(
     frame,
     text="Accessible Form Prototype",
-    font=("Segoe UI", 16, "bold")
+    font=("Arial", 16, "bold")
 )
 title_label.pack(pady=(0, 15))
 
 # Name
-tk.Label(frame, text="Name (required):").pack(anchor="w")
+tk.Label(
+    frame, text="Name (required):",
+    bg=BG_COLOR,
+    fg="white").pack(anchor="w")
 name_entry = tk.Entry(frame, width=40)
 name_entry.pack(pady=(0, 10))
 
