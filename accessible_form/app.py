@@ -6,7 +6,7 @@
 ## user frustration, provides clear feedback, and supports error recovery — especially
 ## for users who are easily overwhelmed by poorly designed forms.
 
-BG_COLOR = "#5a889c"
+BG_COLOR = "#367691"
 TEXT_COLOR = "#111827"
 SUBTEXT_COLOR = "#374151"
 ACCENT_COLOR = "#2563eb"
@@ -72,7 +72,7 @@ frame.configure(bg=BG_COLOR)
 title_label = tk.Label(
     frame,
     text="Accessible Form Prototype",
-    font=("Arial", 16, "bold")
+    font=("Segoe UI", 16, "bold")
 )
 title_label.pack(pady=(0, 15))
 
