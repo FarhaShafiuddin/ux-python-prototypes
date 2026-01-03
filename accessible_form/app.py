@@ -6,6 +6,13 @@
 ## user frustration, provides clear feedback, and supports error recovery — especially
 ## for users who are easily overwhelmed by poorly designed forms.
 
+BG_COLOR = "#f9fafb"
+TEXT_COLOR = "#111827"
+SUBTEXT_COLOR = "#374151"
+ACCENT_COLOR = "#2563eb"
+ERROR_COLOR = "#b91c1c"
+SUCCESS_COLOR = "#15803d"
+
 
 
 import tkinter as tk
@@ -54,10 +61,13 @@ root = tk.Tk()
 root.title("Accessible Form Prototype")
 root.geometry("420x380")
 root.resizable(False, False)
+root.configure(bg=BG_COLOR)
 
 # ---------- Layout ----------
 frame = tk.Frame(root, padx=20, pady=20)
 frame.pack(fill="both", expand=True)
+frame.configure(bg=BG_COLOR)
+
 
 title_label = tk.Label(
     frame,
