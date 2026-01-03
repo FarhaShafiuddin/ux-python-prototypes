@@ -74,6 +74,7 @@ title_label = tk.Label(
     text="Accessible Form Prototype",
     font=("Arial", 16, "bold")
 )
+title_label.config(bg=BG_COLOR, fg="white")
 title_label.pack(pady=(0, 15))
 
 # Name
