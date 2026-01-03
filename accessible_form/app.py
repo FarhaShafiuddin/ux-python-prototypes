@@ -6,7 +6,7 @@
 ## user frustration, provides clear feedback, and supports error recovery — especially
 ## for users who are easily overwhelmed by poorly designed forms.
 
-BG_COLOR = "#f9fafb"
+BG_COLOR = "#5a889c"
 TEXT_COLOR = "#111827"
 SUBTEXT_COLOR = "#374151"
 ACCENT_COLOR = "#2563eb"
