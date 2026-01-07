@@ -31,6 +31,8 @@ These issues disproportionately affect users with accessibility needs.
 ## Implementation
 - Language: Python
 - UI Framework: Tkinter
+- UX design
+- Accessibility
 - File: `app.py`
 
 The focus of this project is not visual polish, but usability,
@@ -67,3 +69,5 @@ accessibility, and user guidance.
 👩‍💻 **Author**  
 Farha Shafiuddin  
 Computer Science student focusing on UI/UX and Python
+**View this project on my portfolio:** [Portfolio Link](https://farhashafiuddin.github.io/Farha-Shafiuddin_Portfolio/)
+
