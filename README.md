@@ -7,7 +7,7 @@ focus on usability, clarity, and inclusive design. They demonstrate how UX
 principles can be applied even in desktop applications built with Python.
 
 ## UX Problem
-Many forms are difficult to use because:
+Many user interfaces are difficult to use because:
 - Labels are unclear or missing
 - Required fields are not obvious
 - Error feedback is confusing or delayed
@@ -29,7 +29,7 @@ These issues disproportionately affect users with accessibility needs.
 - **Inline validation** to guide users before submission
 
 ## Implementation
-# File: app.py
+### File: app.py
 - Language: Python
 - UI Framework: Tkinter
 - UX design
