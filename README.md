@@ -2,8 +2,8 @@
 **UX + Python Project**
 
 ## Overview
-This project is a Python-based accessible form prototype designed with a strong
-focus on usability, clarity, and inclusive design. It demonstrates how UX
+These projects are Python-based prototypes designed with a strong
+focus on usability, clarity, and inclusive design. They demonstrate how UX
 principles can be applied even in desktop applications built with Python.
 
 ## UX Problem
@@ -16,7 +16,7 @@ Many forms are difficult to use because:
 These issues disproportionately affect users with accessibility needs.
 
 ## UX Goals
-- Create a clear, readable form layout
+- Create a simple, readable form layout
 - Provide immediate, understandable feedback
 - Support keyboard-first interaction
 - Reduce cognitive load for users
@@ -29,11 +29,11 @@ These issues disproportionately affect users with accessibility needs.
 - **Inline validation** to guide users before submission
 
 ## Implementation
+# File: app.py
 - Language: Python
 - UI Framework: Tkinter
 - UX design
 - Accessibility
-- File: `app.py`
 
 The focus of this project is not visual polish, but usability,
 accessibility, and user guidance.
@@ -69,5 +69,6 @@ accessibility, and user guidance.
 👩‍💻 **Author**  
 Farha Shafiuddin  
 Computer Science student focusing on UI/UX and Python
+
 **View this project on my portfolio:** [Portfolio Link](https://farhashafiuddin.github.io/Farha-Shafiuddin_Portfolio/)
 
